@@ -9,8 +9,8 @@
     <body>
         <div class="container">
             <div class="card mt-5">
-                <div class="card-header bg-primary text-center">
-                    CRUD Data Pegawai - <a href="https://kagion.github.io/" target="_blank"> Getar jagat Dewantara</a>
+                <div class="card-header bg-danger text-center">
+                    CRUD Data Pegawai - <a href="#" target="_blank"> Getar Jagat Dewantara</a>
                 </div>
                 <div class="card-body">
                     <a href="/pegawai/tambah" class="btn btn-primary">Input Pegawai</a>
