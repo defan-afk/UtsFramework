@@ -23,7 +23,7 @@
             <div class="logo"><a href="#">APP<span>Pegawai.</span></a></div>
             <ul class="menu">
                 <li><a href="#home" class="menu-btn">Home</a></li>
-                <li><a href="https://pegawaii.herokuapp.com/pegawai" class="menu-btn">DataPegawai</a></li>
+                <li><a href="https://utspegawai.herokuapp.com/pegawai" class="menu-btn">DataPegawai</a></li>
             </ul>
             <div class="menu-btn">
                 <i class="fas fa-bars"></i>
