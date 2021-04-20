@@ -13,7 +13,7 @@
                     CRUD Data Pegawai - <a href="https://kagion.github.io/" target="_blank"> Getar jagat Dewantara</a>
                 </div>
                 <div class="card-body">
-                    <a href="/pegawai/tambah" class="btn btn-succes">Input Pegawai</a>
+                    <a href="/pegawai/tambah" class="btn btn-primary">Input Pegawai</a>
                     <br/>
                     <br/>
                     <table class="table table-bordered table-hover table-striped">
