@@ -8,11 +8,22 @@
         <title>UTS 6B D4 Teknik Informatika</title>
     </head>
     <body>
+    <div class="scroll-up-btn">
+        <i class="fas fa-angle-up"></i>
+    </div>
+    <nav class="navbar">
+        <div class="max-width">
         <div class="container">
             <div class="card mt-5">
                 <div class="card-header bg-danger text-center">
                     CRUD Data Pegawai - <a href="#" target="_blank"> Getar Jagat Dewantara</a>
                 </div>
+                <div class="menu-btn">
+                <i class="fas fa-bars"></i>
+            </div>
+            </nav>
+            </div>
+
                 <div class="card-body">
                     <a href="/pegawai/tambah" class="btn btn-dark">Input Pegawai</a>                    <a href="/" class="btn btn-primary">Kembali</a>
                     <br/>
