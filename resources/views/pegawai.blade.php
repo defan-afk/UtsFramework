@@ -4,25 +4,15 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="style.css">
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
         <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" rel="stylesheet">
         <title>UTS 6B D4 Teknik Informatika</title>
     </head>
     <body>
-    <div class="scroll-up-btn">
-        <i class="fas fa-angle-up"></i>
-    </div>
-    <nav class="navbar">
-        <div class="max-width">
         <div class="container">
             <div class="card mt-5">
                 <div class="card-header bg-danger text-center">
                     CRUD Data Pegawai - <a href="#" target="_blank"> Getar Jagat Dewantara</a>
                 </div>
-                <div class="menu-btn">
-                <i class="fas fa-bars"></i>
-            </div>
-            </nav>
             </div>
 
                 <div class="card-body">
