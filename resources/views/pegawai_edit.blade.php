@@ -69,7 +69,7 @@
                 </div>
             </div>
         </div>
-        
+
         <footer>
         <span>Created By <a href="#">Getar Jagat Dewantara</a> | <span class="far fa-copyright"></span> 2020 All rights reserved.</span>
     </footer>
