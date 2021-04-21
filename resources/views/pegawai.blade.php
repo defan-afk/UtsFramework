@@ -14,6 +14,7 @@
                     CRUD Data Pegawai - <a href="#" target="_blank"> Getar Jagat Dewantara</a>
                 </div>
                 <div class="card-body">
+                <div class="max-width">
                     <a href="/pegawai/tambah" class="btn btn-dark">Input Pegawai</a>
                     <br/>
                     <br/>
@@ -38,6 +39,7 @@
                             @endforeach
                         </tbody>
                     </table>
+                    </div>
                 </div>
             </div>
         </div>
