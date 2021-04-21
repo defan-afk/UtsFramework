@@ -3,7 +3,6 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="style.css">
         <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" rel="stylesheet">
         <title>UTS 6B D4 Teknik Informatika</title>
     </head>
@@ -70,10 +69,6 @@
             </div>
         </div>
 <!-- footer section start -->
-<footer>
-        <span>Created By <a href="#">Getar Jagat Dewantara</a> | <span class="far fa-copyright"></span> 2020 All rights reserved.</span>
-    </footer>
 
-    <script src="script.js"></script>
     </body>
 </html>

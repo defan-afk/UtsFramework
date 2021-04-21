@@ -66,5 +66,5 @@
                 </div>
             </div>
         </div>
-    </body> <center><a href="#" target="_blank">18090027</a></center>
+    </body> 
 </html>
