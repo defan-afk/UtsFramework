@@ -10,11 +10,12 @@
     <body>
         <div class="container">
             <div class="card mt-5">
+            <div class="max-width">
                 <div class="card-header bg-danger text-center">
                     CRUD Data Pegawai - <a href="#" target="_blank"> Getar Jagat Dewantara</a>
                 </div>
                 <div class="card-body">
-                <div class="max-width">
+                
                     <a href="/pegawai/tambah" class="btn btn-dark">Input Pegawai</a>
                     <br/>
                     <br/>
