@@ -38,7 +38,6 @@
             <div class="home-content">
                 <div class="text-1">Name </div>
                 <div class="text-2">Getar Jagat Dewantara</div>
-                <div class="text-3">And <span class="typing"></span></div>
                 <a href="#">Start</a>
             </div>
           </div>
