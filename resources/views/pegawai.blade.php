@@ -11,14 +11,17 @@
     <div class="scroll-up-btn">
         <i class="fas fa-angle-up"></i>
     </div>
+    <nav class="navbar">
+        <div class="max-width">
         <div class="container">
             <div class="card mt-5">
                 <div class="card-header bg-danger text-center">
                     CRUD Data Pegawai - <a href="#" target="_blank"> Getar Jagat Dewantara</a>
                 </div>
+                </nav>
                 <div class="card-body">
                     <a href="/pegawai/tambah" class="btn btn-dark">Input Pegawai</a>
-                    <a href="/pegawai"class="btn btn-primary">Kembali</a>
+                    <a href="/pegawai/home"class="btn btn-primary">Kembali</a>
                     <br/>
                     <br/>
                     <table class="table table-bordered table-hover table-striped">
