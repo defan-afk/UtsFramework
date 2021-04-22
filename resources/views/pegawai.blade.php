@@ -11,7 +11,7 @@
         <div class="container">
             <div class="card mt-5">
                 <div class="card-header bg-danger text-center">
-                    CRUD Data Pegawai - <a href="#" target="_blank"> Getar Jagat Dewantara</a>
+                    CRUD Data Pegawai <a href="#" target="_blank"></a>
                 </div>
             </div>
 
